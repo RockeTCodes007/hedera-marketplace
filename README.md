@@ -11,4 +11,4 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-# I have for now kept the price field hidden and static . There appears to be a problem when I keep the price > 0.1 Gwei .( Buy functionality does not work as expected for price > 0.1 Gwei ) 
+ I have for now kept the price field hidden and static . There appears to be a problem when I keep the price > 0.1 Gwei .( Buy functionality does not work as expected for price > 0.1 Gwei ) 
